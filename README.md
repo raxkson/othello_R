@@ -1,9 +1,7 @@
 # Othello
 
 ## Othello
-AI algorithm: MiniMax -> Monte Carlo
-
-Monte Carlo is more effecient when same sec
+AI algorithm: MiniMax -> Monte Carlo (Monte Carlo is more effecient when same sec)
 
 rule: loss win
 
