@@ -10,3 +10,6 @@ requirments: Qt Creator
 ## Othello_protocol
 
 https://gitlab.com/UNKNOWN.UN/othello_protocol
+
+
+![Image description](./othello_R.png)
